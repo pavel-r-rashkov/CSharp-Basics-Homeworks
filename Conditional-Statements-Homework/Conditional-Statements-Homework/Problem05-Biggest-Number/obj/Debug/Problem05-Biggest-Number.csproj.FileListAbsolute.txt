@@ -1,5 +1,0 @@
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem05-Biggest-Number\bin\Debug\Problem05-Biggest-Number.exe.config
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem05-Biggest-Number\bin\Debug\Problem05-Biggest-Number.exe
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem05-Biggest-Number\bin\Debug\Problem05-Biggest-Number.pdb
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem05-Biggest-Number\obj\Debug\Problem05-Biggest-Number.exe
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem05-Biggest-Number\obj\Debug\Problem05-Biggest-Number.pdb

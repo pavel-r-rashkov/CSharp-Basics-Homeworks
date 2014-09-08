@@ -1,8 +1,0 @@
-c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem12-Randomize-Numbers\bin\Debug\Problem12-Randomize-Numbers.exe.config
-c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem12-Randomize-Numbers\bin\Debug\Problem12-Randomize-Numbers.exe
-c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem12-Randomize-Numbers\bin\Debug\Problem12-Randomize-Numbers.pdb
-c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem12-Randomize-Numbers\obj\Debug\Problem12-Randomize-Numbers.exe
-c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem12-Randomize-Numbers\obj\Debug\Problem12-Randomize-Numbers.pdb
-C:\Users\ASUS\Desktop\C# Homeworks rars\Loops-Homework\Problem12-Randomize-Numbers\bin\Debug\Problem12-Randomize-Numbers.exe.config
-C:\Users\ASUS\Desktop\C# Homeworks rars\Loops-Homework\Problem12-Randomize-Numbers\obj\Debug\Problem12-Randomize-Numbers.exe
-C:\Users\ASUS\Desktop\C# Homeworks rars\Loops-Homework\Problem12-Randomize-Numbers\obj\Debug\Problem12-Randomize-Numbers.pdb

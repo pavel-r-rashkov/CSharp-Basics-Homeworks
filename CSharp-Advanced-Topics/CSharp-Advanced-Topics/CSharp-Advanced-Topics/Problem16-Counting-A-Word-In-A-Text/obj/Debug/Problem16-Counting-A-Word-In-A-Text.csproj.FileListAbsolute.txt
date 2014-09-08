@@ -1,6 +1,0 @@
-c:\users\asus\documents\visual studio 2013\Projects\CSharp-Advanced-Topics\Problem16-Counting-A-Word-In-A-Text\bin\Debug\Problem16-Counting-A-Word-In-A-Text.exe.config
-c:\users\asus\documents\visual studio 2013\Projects\CSharp-Advanced-Topics\Problem16-Counting-A-Word-In-A-Text\bin\Debug\Problem16-Counting-A-Word-In-A-Text.exe
-c:\users\asus\documents\visual studio 2013\Projects\CSharp-Advanced-Topics\Problem16-Counting-A-Word-In-A-Text\bin\Debug\Problem16-Counting-A-Word-In-A-Text.pdb
-c:\users\asus\documents\visual studio 2013\Projects\CSharp-Advanced-Topics\Problem16-Counting-A-Word-In-A-Text\obj\Debug\Problem16-Counting-A-Word-In-A-Text.csprojResolveAssemblyReference.cache
-c:\users\asus\documents\visual studio 2013\Projects\CSharp-Advanced-Topics\Problem16-Counting-A-Word-In-A-Text\obj\Debug\Problem16-Counting-A-Word-In-A-Text.exe
-c:\users\asus\documents\visual studio 2013\Projects\CSharp-Advanced-Topics\Problem16-Counting-A-Word-In-A-Text\obj\Debug\Problem16-Counting-A-Word-In-A-Text.pdb

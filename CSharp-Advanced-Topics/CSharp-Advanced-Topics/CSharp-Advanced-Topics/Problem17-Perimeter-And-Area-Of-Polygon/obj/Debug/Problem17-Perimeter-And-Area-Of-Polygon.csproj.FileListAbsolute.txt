@@ -1,6 +1,0 @@
-c:\users\asus\documents\visual studio 2013\Projects\CSharp-Advanced-Topics\Problem17-Perimeter-And-Area-Of-Polygon\bin\Debug\Problem17-Perimeter-And-Area-Of-Polygon.exe.config
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Topics\Problem17-Perimeter-And-Area-Of-Polygon\obj\Debug\Problem17-Perimeter-And-Area-Of-Polygon.csprojResolveAssemblyReference.cache
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Topics\Problem17-Perimeter-And-Area-Of-Polygon\bin\Debug\Problem17-Perimeter-And-Area-Of-Polygon.exe
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Topics\Problem17-Perimeter-And-Area-Of-Polygon\bin\Debug\Problem17-Perimeter-And-Area-Of-Polygon.pdb
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Topics\Problem17-Perimeter-And-Area-Of-Polygon\obj\Debug\Problem17-Perimeter-And-Area-Of-Polygon.exe
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Topics\Problem17-Perimeter-And-Area-Of-Polygon\obj\Debug\Problem17-Perimeter-And-Area-Of-Polygon.pdb

@@ -1,8 +1,0 @@
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Console-Input-Output-Homework\Problem11-Numbers-In-Interval\bin\Debug\Problem11-Numbers-In-Interval.exe.config
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Console-Input-Output-Homework\Problem11-Numbers-In-Interval\bin\Debug\Problem11-Numbers-In-Interval.exe
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Console-Input-Output-Homework\Problem11-Numbers-In-Interval\bin\Debug\Problem11-Numbers-In-Interval.pdb
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Console-Input-Output-Homework\Problem11-Numbers-In-Interval\obj\Debug\Problem11-Numbers-In-Interval.exe
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Console-Input-Output-Homework\Problem11-Numbers-In-Interval\obj\Debug\Problem11-Numbers-In-Interval.pdb
-C:\Users\ASUS\Desktop\Homeworks rars\Console-Input-Output-Homework\Console-Input-Output-Homework\Problem11-Numbers-In-Interval\bin\Debug\Problem11-Numbers-In-Interval.exe.config
-C:\Users\ASUS\Desktop\Homeworks rars\Console-Input-Output-Homework\Console-Input-Output-Homework\Problem11-Numbers-In-Interval\obj\Debug\Problem11-Numbers-In-Interval.exe
-C:\Users\ASUS\Desktop\Homeworks rars\Console-Input-Output-Homework\Console-Input-Output-Homework\Problem11-Numbers-In-Interval\obj\Debug\Problem11-Numbers-In-Interval.pdb

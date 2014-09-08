@@ -1,8 +1,0 @@
-c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem10-Odd-Even-Product\bin\Debug\Problem10-Odd-Even-Product.exe.config
-c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem10-Odd-Even-Product\bin\Debug\Problem10-Odd-Even-Product.exe
-c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem10-Odd-Even-Product\bin\Debug\Problem10-Odd-Even-Product.pdb
-c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem10-Odd-Even-Product\obj\Debug\Problem10-Odd-Even-Product.exe
-c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem10-Odd-Even-Product\obj\Debug\Problem10-Odd-Even-Product.pdb
-C:\Users\ASUS\Desktop\C# Homeworks rars\Loops-Homework\Problem10-Odd-Even-Product\bin\Debug\Problem10-Odd-Even-Product.exe.config
-C:\Users\ASUS\Desktop\C# Homeworks rars\Loops-Homework\Problem10-Odd-Even-Product\obj\Debug\Problem10-Odd-Even-Product.exe
-C:\Users\ASUS\Desktop\C# Homeworks rars\Loops-Homework\Problem10-Odd-Even-Product\obj\Debug\Problem10-Odd-Even-Product.pdb

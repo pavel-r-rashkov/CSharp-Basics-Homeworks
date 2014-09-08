@@ -1,8 +1,0 @@
-c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem04-Rectangles\bin\Debug\Problem04-Rectangles.exe.config
-c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem04-Rectangles\bin\Debug\Problem04-Rectangles.exe
-c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem04-Rectangles\bin\Debug\Problem04-Rectangles.pdb
-c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem04-Rectangles\obj\Debug\Problem04-Rectangles.exe
-c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem04-Rectangles\obj\Debug\Problem04-Rectangles.pdb
-C:\Users\ASUS\Desktop\Homeworks rars\Operators-Expressions-Statements-Homework\Operators-Expressions-Statements-Homework\Problem04-Rectangles\bin\Debug\Problem04-Rectangles.exe.config
-C:\Users\ASUS\Desktop\Homeworks rars\Operators-Expressions-Statements-Homework\Operators-Expressions-Statements-Homework\Problem04-Rectangles\obj\Debug\Problem04-Rectangles.exe
-C:\Users\ASUS\Desktop\Homeworks rars\Operators-Expressions-Statements-Homework\Operators-Expressions-Statements-Homework\Problem04-Rectangles\obj\Debug\Problem04-Rectangles.pdb

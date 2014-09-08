@@ -1,5 +1,0 @@
-c:\users\asus\documents\visual studio 2013\Projects\CSharp-Advanced-Topics\Problem06-Longest-Area-In-Array\bin\Debug\Problem06-Longest-Area-In-Array.exe.config
-c:\users\asus\documents\visual studio 2013\Projects\CSharp-Advanced-Topics\Problem06-Longest-Area-In-Array\bin\Debug\Problem06-Longest-Area-In-Array.exe
-c:\users\asus\documents\visual studio 2013\Projects\CSharp-Advanced-Topics\Problem06-Longest-Area-In-Array\bin\Debug\Problem06-Longest-Area-In-Array.pdb
-c:\users\asus\documents\visual studio 2013\Projects\CSharp-Advanced-Topics\Problem06-Longest-Area-In-Array\obj\Debug\Problem06-Longest-Area-In-Array.exe
-c:\users\asus\documents\visual studio 2013\Projects\CSharp-Advanced-Topics\Problem06-Longest-Area-In-Array\obj\Debug\Problem06-Longest-Area-In-Array.pdb

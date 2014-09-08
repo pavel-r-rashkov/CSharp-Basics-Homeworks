@@ -1,8 +1,0 @@
-c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem17-Calculate-GCD\bin\Debug\Problem17-Calculate-GCD.exe.config
-c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem17-Calculate-GCD\bin\Debug\Problem17-Calculate-GCD.exe
-c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem17-Calculate-GCD\bin\Debug\Problem17-Calculate-GCD.pdb
-c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem17-Calculate-GCD\obj\Debug\Problem17-Calculate-GCD.exe
-c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem17-Calculate-GCD\obj\Debug\Problem17-Calculate-GCD.pdb
-C:\Users\ASUS\Desktop\C# Homeworks rars\Loops-Homework\Problem17-Calculate-GCD\bin\Debug\Problem17-Calculate-GCD.exe.config
-C:\Users\ASUS\Desktop\C# Homeworks rars\Loops-Homework\Problem17-Calculate-GCD\obj\Debug\Problem17-Calculate-GCD.exe
-C:\Users\ASUS\Desktop\C# Homeworks rars\Loops-Homework\Problem17-Calculate-GCD\obj\Debug\Problem17-Calculate-GCD.pdb

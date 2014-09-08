@@ -1,8 +1,0 @@
-c:\users\asus\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\Problem12-Null-Values-Arithmetic\bin\Debug\Problem12-Null-Values-Arithmetic.exe.config
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-Variables-Homework\Problem12-Null-Values-Arithmetic\bin\Debug\Problem12-Null-Values-Arithmetic.exe
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-Variables-Homework\Problem12-Null-Values-Arithmetic\bin\Debug\Problem12-Null-Values-Arithmetic.pdb
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-Variables-Homework\Problem12-Null-Values-Arithmetic\obj\Debug\Problem12-Null-Values-Arithmetic.exe
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-Variables-Homework\Problem12-Null-Values-Arithmetic\obj\Debug\Problem12-Null-Values-Arithmetic.pdb
-C:\Users\ASUS\Desktop\Homeworks rars\Primitive-Data-Types-Variables-Homework\Primitive-Data-Types-Variables-Homework\Problem12-Null-Values-Arithmetic\bin\Debug\Problem12-Null-Values-Arithmetic.exe.config
-C:\Users\ASUS\Desktop\Homeworks rars\Primitive-Data-Types-Variables-Homework\Primitive-Data-Types-Variables-Homework\Problem12-Null-Values-Arithmetic\obj\Debug\Problem12-Null-Values-Arithmetic.exe
-C:\Users\ASUS\Desktop\Homeworks rars\Primitive-Data-Types-Variables-Homework\Primitive-Data-Types-Variables-Homework\Problem12-Null-Values-Arithmetic\obj\Debug\Problem12-Null-Values-Arithmetic.pdb

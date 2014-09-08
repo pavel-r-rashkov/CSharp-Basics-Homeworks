@@ -1,8 +1,0 @@
-c:\users\asus\documents\visual studio 2013\Projects\Intro-Programming-Homework\Problem7-Print-First-And-Last-Name\bin\Debug\Problem7-Print-First-And-Last-Name.exe.config
-c:\users\asus\documents\visual studio 2013\Projects\Intro-Programming-Homework\Problem7-Print-First-And-Last-Name\bin\Debug\Problem7-Print-First-And-Last-Name.exe
-c:\users\asus\documents\visual studio 2013\Projects\Intro-Programming-Homework\Problem7-Print-First-And-Last-Name\bin\Debug\Problem7-Print-First-And-Last-Name.pdb
-c:\users\asus\documents\visual studio 2013\Projects\Intro-Programming-Homework\Problem7-Print-First-And-Last-Name\obj\Debug\Problem7-Print-First-And-Last-Name.exe
-c:\users\asus\documents\visual studio 2013\Projects\Intro-Programming-Homework\Problem7-Print-First-And-Last-Name\obj\Debug\Problem7-Print-First-And-Last-Name.pdb
-C:\Users\ASUS\Desktop\Homeworks rars\Intro Programming Homework\Intro Programming Homework\Intro-Programming-Homework\Problem7-Print-First-And-Last-Name\bin\Debug\Problem7-Print-First-And-Last-Name.exe.config
-C:\Users\ASUS\Desktop\Homeworks rars\Intro Programming Homework\Intro Programming Homework\Intro-Programming-Homework\Problem7-Print-First-And-Last-Name\obj\Debug\Problem7-Print-First-And-Last-Name.exe
-C:\Users\ASUS\Desktop\Homeworks rars\Intro Programming Homework\Intro Programming Homework\Intro-Programming-Homework\Problem7-Print-First-And-Last-Name\obj\Debug\Problem7-Print-First-And-Last-Name.pdb

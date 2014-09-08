@@ -1,8 +1,0 @@
-c:\users\asus\documents\visual studio 2013\Projects\Intro-Programming-Homework\Problem10-Reformat-CSharp-Code\bin\Debug\Problem10-Reformat-CSharp-Code.exe.config
-c:\users\asus\documents\visual studio 2013\Projects\Intro-Programming-Homework\Problem10-Reformat-CSharp-Code\bin\Debug\Problem10-Reformat-CSharp-Code.exe
-c:\users\asus\documents\visual studio 2013\Projects\Intro-Programming-Homework\Problem10-Reformat-CSharp-Code\bin\Debug\Problem10-Reformat-CSharp-Code.pdb
-c:\users\asus\documents\visual studio 2013\Projects\Intro-Programming-Homework\Problem10-Reformat-CSharp-Code\obj\Debug\Problem10-Reformat-CSharp-Code.exe
-c:\users\asus\documents\visual studio 2013\Projects\Intro-Programming-Homework\Problem10-Reformat-CSharp-Code\obj\Debug\Problem10-Reformat-CSharp-Code.pdb
-C:\Users\ASUS\Desktop\Homeworks rars\Intro Programming Homework\Intro Programming Homework\Intro-Programming-Homework\Problem10-Reformat-CSharp-Code\bin\Debug\Problem10-Reformat-CSharp-Code.exe.config
-C:\Users\ASUS\Desktop\Homeworks rars\Intro Programming Homework\Intro Programming Homework\Intro-Programming-Homework\Problem10-Reformat-CSharp-Code\obj\Debug\Problem10-Reformat-CSharp-Code.exe
-C:\Users\ASUS\Desktop\Homeworks rars\Intro Programming Homework\Intro Programming Homework\Intro-Programming-Homework\Problem10-Reformat-CSharp-Code\obj\Debug\Problem10-Reformat-CSharp-Code.pdb

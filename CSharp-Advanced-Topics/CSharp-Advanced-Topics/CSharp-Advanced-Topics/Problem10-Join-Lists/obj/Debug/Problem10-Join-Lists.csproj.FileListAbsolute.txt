@@ -1,5 +1,0 @@
-c:\users\asus\documents\visual studio 2013\Projects\CSharp-Advanced-Topics\Problem10-Join-Lists\bin\Debug\Problem10-Join-Lists.exe.config
-c:\users\asus\documents\visual studio 2013\Projects\CSharp-Advanced-Topics\Problem10-Join-Lists\bin\Debug\Problem10-Join-Lists.exe
-c:\users\asus\documents\visual studio 2013\Projects\CSharp-Advanced-Topics\Problem10-Join-Lists\bin\Debug\Problem10-Join-Lists.pdb
-c:\users\asus\documents\visual studio 2013\Projects\CSharp-Advanced-Topics\Problem10-Join-Lists\obj\Debug\Problem10-Join-Lists.exe
-c:\users\asus\documents\visual studio 2013\Projects\CSharp-Advanced-Topics\Problem10-Join-Lists\obj\Debug\Problem10-Join-Lists.pdb

@@ -1,8 +1,0 @@
-c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem14-Decimal-To-Binary\bin\Debug\Problem14-Decimal-To-Binary.exe.config
-c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem14-Decimal-To-Binary\bin\Debug\Problem14-Decimal-To-Binary.exe
-c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem14-Decimal-To-Binary\bin\Debug\Problem14-Decimal-To-Binary.pdb
-c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem14-Decimal-To-Binary\obj\Debug\Problem14-Decimal-To-Binary.exe
-c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem14-Decimal-To-Binary\obj\Debug\Problem14-Decimal-To-Binary.pdb
-C:\Users\ASUS\Desktop\C# Homeworks rars\Loops-Homework\Problem14-Decimal-To-Binary\bin\Debug\Problem14-Decimal-To-Binary.exe.config
-C:\Users\ASUS\Desktop\C# Homeworks rars\Loops-Homework\Problem14-Decimal-To-Binary\obj\Debug\Problem14-Decimal-To-Binary.exe
-C:\Users\ASUS\Desktop\C# Homeworks rars\Loops-Homework\Problem14-Decimal-To-Binary\obj\Debug\Problem14-Decimal-To-Binary.pdb

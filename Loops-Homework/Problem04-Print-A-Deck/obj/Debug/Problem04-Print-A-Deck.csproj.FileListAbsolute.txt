@@ -1,8 +1,0 @@
-c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem04-Print-A-Deck\bin\Debug\Problem04-Print-A-Deck.exe.config
-c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem04-Print-A-Deck\bin\Debug\Problem04-Print-A-Deck.exe
-c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem04-Print-A-Deck\bin\Debug\Problem04-Print-A-Deck.pdb
-c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem04-Print-A-Deck\obj\Debug\Problem04-Print-A-Deck.exe
-c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem04-Print-A-Deck\obj\Debug\Problem04-Print-A-Deck.pdb
-C:\Users\ASUS\Desktop\C# Homeworks rars\Loops-Homework\Problem04-Print-A-Deck\bin\Debug\Problem04-Print-A-Deck.exe.config
-C:\Users\ASUS\Desktop\C# Homeworks rars\Loops-Homework\Problem04-Print-A-Deck\obj\Debug\Problem04-Print-A-Deck.exe
-C:\Users\ASUS\Desktop\C# Homeworks rars\Loops-Homework\Problem04-Print-A-Deck\obj\Debug\Problem04-Print-A-Deck.pdb

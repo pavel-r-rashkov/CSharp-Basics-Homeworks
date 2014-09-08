@@ -1,8 +1,0 @@
-c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem07-Point-Circle\bin\Debug\Problem07-Point-Circle.exe.config
-c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem07-Point-Circle\bin\Debug\Problem07-Point-Circle.exe
-c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem07-Point-Circle\bin\Debug\Problem07-Point-Circle.pdb
-c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem07-Point-Circle\obj\Debug\Problem07-Point-Circle.exe
-c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem07-Point-Circle\obj\Debug\Problem07-Point-Circle.pdb
-C:\Users\ASUS\Desktop\Homeworks rars\Operators-Expressions-Statements-Homework\Operators-Expressions-Statements-Homework\Problem07-Point-Circle\bin\Debug\Problem07-Point-Circle.exe.config
-C:\Users\ASUS\Desktop\Homeworks rars\Operators-Expressions-Statements-Homework\Operators-Expressions-Statements-Homework\Problem07-Point-Circle\obj\Debug\Problem07-Point-Circle.exe
-C:\Users\ASUS\Desktop\Homeworks rars\Operators-Expressions-Statements-Homework\Operators-Expressions-Statements-Homework\Problem07-Point-Circle\obj\Debug\Problem07-Point-Circle.pdb

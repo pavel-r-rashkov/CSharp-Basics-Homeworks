@@ -1,6 +1,0 @@
-c:\users\asus\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\Problem10-Employee-Data\bin\Debug\Problem10-Employee-Data.exe.config
-c:\users\asus\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\Problem10-Employee-Data\bin\Debug\Problem10-Employee-Data.exe
-c:\users\asus\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\Problem10-Employee-Data\bin\Debug\Problem10-Employee-Data.pdb
-c:\users\asus\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\Problem10-Employee-Data\obj\Debug\Problem10-Employee-Data.exe
-c:\users\asus\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\Problem10-Employee-Data\obj\Debug\Problem10-Employee-Data.pdb
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-Variables-Homework\Problem10-Employee-Data\obj\Debug\Problem10-Employee-Data.csprojResolveAssemblyReference.cache

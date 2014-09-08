@@ -1,9 +1,0 @@
-c:\users\asus\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\Problem08-Isoceles-Triangle\bin\Debug\Problem08-Isoceles-Triangle.exe.config
-c:\users\asus\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\Problem08-Isoceles-Triangle\bin\Debug\Problem08-Isoceles-Triangle.exe
-c:\users\asus\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\Problem08-Isoceles-Triangle\bin\Debug\Problem08-Isoceles-Triangle.pdb
-c:\users\asus\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\Problem08-Isoceles-Triangle\obj\Debug\Problem08-Isoceles-Triangle.exe
-c:\users\asus\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\Problem08-Isoceles-Triangle\obj\Debug\Problem08-Isoceles-Triangle.pdb
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-Variables-Homework\Problem08-Isoceles-Triangle\obj\Debug\Problem08-Isoceles-Triangle.csprojResolveAssemblyReference.cache
-C:\Users\ASUS\Desktop\Homeworks rars\Primitive-Data-Types-Variables-Homework\Primitive-Data-Types-Variables-Homework\Problem08-Isoceles-Triangle\bin\Debug\Problem08-Isoceles-Triangle.exe.config
-C:\Users\ASUS\Desktop\Homeworks rars\Primitive-Data-Types-Variables-Homework\Primitive-Data-Types-Variables-Homework\Problem08-Isoceles-Triangle\obj\Debug\Problem08-Isoceles-Triangle.exe
-C:\Users\ASUS\Desktop\Homeworks rars\Primitive-Data-Types-Variables-Homework\Primitive-Data-Types-Variables-Homework\Problem08-Isoceles-Triangle\obj\Debug\Problem08-Isoceles-Triangle.pdb

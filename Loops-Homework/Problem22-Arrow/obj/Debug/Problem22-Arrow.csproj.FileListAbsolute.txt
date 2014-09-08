@@ -1,9 +1,0 @@
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Loops-Homework\Problem22-Arrow\bin\Debug\Problem22-Arrow.exe.config
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Loops-Homework\Problem22-Arrow\bin\Debug\Problem22-Arrow.exe
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Loops-Homework\Problem22-Arrow\bin\Debug\Problem22-Arrow.pdb
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Loops-Homework\Problem22-Arrow\obj\Debug\Problem22-Arrow.csprojResolveAssemblyReference.cache
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Loops-Homework\Problem22-Arrow\obj\Debug\Problem22-Arrow.exe
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Loops-Homework\Problem22-Arrow\obj\Debug\Problem22-Arrow.pdb
-C:\Users\ASUS\Desktop\C# Homeworks rars\Loops-Homework\Problem22-Arrow\bin\Debug\Problem22-Arrow.exe.config
-C:\Users\ASUS\Desktop\C# Homeworks rars\Loops-Homework\Problem22-Arrow\obj\Debug\Problem22-Arrow.exe
-C:\Users\ASUS\Desktop\C# Homeworks rars\Loops-Homework\Problem22-Arrow\obj\Debug\Problem22-Arrow.pdb

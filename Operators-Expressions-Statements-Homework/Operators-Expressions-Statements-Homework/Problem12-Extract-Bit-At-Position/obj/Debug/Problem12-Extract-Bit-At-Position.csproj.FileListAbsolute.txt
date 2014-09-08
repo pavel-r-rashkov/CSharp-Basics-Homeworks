@@ -1,8 +1,0 @@
-c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem12-Extract-Bit-At-Position\bin\Debug\Problem12-Extract-Bit-At-Position.exe.config
-c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem12-Extract-Bit-At-Position\bin\Debug\Problem12-Extract-Bit-At-Position.exe
-c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem12-Extract-Bit-At-Position\bin\Debug\Problem12-Extract-Bit-At-Position.pdb
-c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem12-Extract-Bit-At-Position\obj\Debug\Problem12-Extract-Bit-At-Position.exe
-c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem12-Extract-Bit-At-Position\obj\Debug\Problem12-Extract-Bit-At-Position.pdb
-C:\Users\ASUS\Desktop\Homeworks rars\Operators-Expressions-Statements-Homework\Operators-Expressions-Statements-Homework\Problem12-Extract-Bit-At-Position\bin\Debug\Problem12-Extract-Bit-At-Position.exe.config
-C:\Users\ASUS\Desktop\Homeworks rars\Operators-Expressions-Statements-Homework\Operators-Expressions-Statements-Homework\Problem12-Extract-Bit-At-Position\obj\Debug\Problem12-Extract-Bit-At-Position.exe
-C:\Users\ASUS\Desktop\Homeworks rars\Operators-Expressions-Statements-Homework\Operators-Expressions-Statements-Homework\Problem12-Extract-Bit-At-Position\obj\Debug\Problem12-Extract-Bit-At-Position.pdb

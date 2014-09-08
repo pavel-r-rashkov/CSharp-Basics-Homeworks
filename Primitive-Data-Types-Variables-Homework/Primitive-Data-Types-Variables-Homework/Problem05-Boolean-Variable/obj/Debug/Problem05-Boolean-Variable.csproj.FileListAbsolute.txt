@@ -1,8 +1,0 @@
-c:\users\asus\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\Problem05-Boolean-Variable\bin\Debug\Problem05-Boolean-Variable.exe.config
-c:\users\asus\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\Problem05-Boolean-Variable\bin\Debug\Problem05-Boolean-Variable.exe
-c:\users\asus\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\Problem05-Boolean-Variable\bin\Debug\Problem05-Boolean-Variable.pdb
-c:\users\asus\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\Problem05-Boolean-Variable\obj\Debug\Problem05-Boolean-Variable.exe
-c:\users\asus\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\Problem05-Boolean-Variable\obj\Debug\Problem05-Boolean-Variable.pdb
-C:\Users\ASUS\Desktop\Homeworks rars\Primitive-Data-Types-Variables-Homework\Primitive-Data-Types-Variables-Homework\Problem05-Boolean-Variable\bin\Debug\Problem05-Boolean-Variable.exe.config
-C:\Users\ASUS\Desktop\Homeworks rars\Primitive-Data-Types-Variables-Homework\Primitive-Data-Types-Variables-Homework\Problem05-Boolean-Variable\obj\Debug\Problem05-Boolean-Variable.exe
-C:\Users\ASUS\Desktop\Homeworks rars\Primitive-Data-Types-Variables-Homework\Primitive-Data-Types-Variables-Homework\Problem05-Boolean-Variable\obj\Debug\Problem05-Boolean-Variable.pdb

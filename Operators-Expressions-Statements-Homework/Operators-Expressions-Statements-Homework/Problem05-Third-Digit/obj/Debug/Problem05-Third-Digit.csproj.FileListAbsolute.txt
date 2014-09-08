@@ -1,8 +1,0 @@
-c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem05-Third-Digit\bin\Debug\Problem05-Third-Digit.exe.config
-c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem05-Third-Digit\bin\Debug\Problem05-Third-Digit.exe
-c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem05-Third-Digit\bin\Debug\Problem05-Third-Digit.pdb
-c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem05-Third-Digit\obj\Debug\Problem05-Third-Digit.exe
-c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem05-Third-Digit\obj\Debug\Problem05-Third-Digit.pdb
-C:\Users\ASUS\Desktop\Homeworks rars\Operators-Expressions-Statements-Homework\Operators-Expressions-Statements-Homework\Problem05-Third-Digit\bin\Debug\Problem05-Third-Digit.exe.config
-C:\Users\ASUS\Desktop\Homeworks rars\Operators-Expressions-Statements-Homework\Operators-Expressions-Statements-Homework\Problem05-Third-Digit\obj\Debug\Problem05-Third-Digit.exe
-C:\Users\ASUS\Desktop\Homeworks rars\Operators-Expressions-Statements-Homework\Operators-Expressions-Statements-Homework\Problem05-Third-Digit\obj\Debug\Problem05-Third-Digit.pdb

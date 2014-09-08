@@ -1,6 +1,0 @@
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem13-Triangle\bin\Debug\Problem13-Triangle.exe.config
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem13-Triangle\bin\Debug\Problem13-Triangle.exe
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem13-Triangle\bin\Debug\Problem13-Triangle.pdb
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem13-Triangle\obj\Debug\Problem13-Triangle.csprojResolveAssemblyReference.cache
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem13-Triangle\obj\Debug\Problem13-Triangle.exe
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem13-Triangle\obj\Debug\Problem13-Triangle.pdb

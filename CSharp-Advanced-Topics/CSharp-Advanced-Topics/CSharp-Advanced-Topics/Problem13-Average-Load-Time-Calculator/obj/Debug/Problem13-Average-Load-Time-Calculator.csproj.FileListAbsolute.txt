@@ -1,6 +1,0 @@
-c:\users\asus\documents\visual studio 2013\Projects\CSharp-Advanced-Topics\Problem13-Average-Load-Time-Calculator\bin\Debug\Problem13-Average-Load-Time-Calculator.exe.config
-c:\users\asus\documents\visual studio 2013\Projects\CSharp-Advanced-Topics\Problem13-Average-Load-Time-Calculator\bin\Debug\Problem13-Average-Load-Time-Calculator.exe
-c:\users\asus\documents\visual studio 2013\Projects\CSharp-Advanced-Topics\Problem13-Average-Load-Time-Calculator\bin\Debug\Problem13-Average-Load-Time-Calculator.pdb
-c:\users\asus\documents\visual studio 2013\Projects\CSharp-Advanced-Topics\Problem13-Average-Load-Time-Calculator\obj\Debug\Problem13-Average-Load-Time-Calculator.csprojResolveAssemblyReference.cache
-c:\users\asus\documents\visual studio 2013\Projects\CSharp-Advanced-Topics\Problem13-Average-Load-Time-Calculator\obj\Debug\Problem13-Average-Load-Time-Calculator.exe
-c:\users\asus\documents\visual studio 2013\Projects\CSharp-Advanced-Topics\Problem13-Average-Load-Time-Calculator\obj\Debug\Problem13-Average-Load-Time-Calculator.pdb

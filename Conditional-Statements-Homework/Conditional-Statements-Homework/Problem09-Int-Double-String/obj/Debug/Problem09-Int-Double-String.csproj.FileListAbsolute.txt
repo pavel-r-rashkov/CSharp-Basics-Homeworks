@@ -1,5 +1,0 @@
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem09-Int-Double-String\bin\Debug\Problem09-Int-Double-String.exe.config
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem09-Int-Double-String\bin\Debug\Problem09-Int-Double-String.exe
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem09-Int-Double-String\bin\Debug\Problem09-Int-Double-String.pdb
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem09-Int-Double-String\obj\Debug\Problem09-Int-Double-String.exe
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem09-Int-Double-String\obj\Debug\Problem09-Int-Double-String.pdb

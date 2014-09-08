@@ -1,8 +1,0 @@
-c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem08-Prime-Number-Check\bin\Debug\Problem08-Prime-Number-Check.exe.config
-c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem08-Prime-Number-Check\bin\Debug\Problem08-Prime-Number-Check.exe
-c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem08-Prime-Number-Check\bin\Debug\Problem08-Prime-Number-Check.pdb
-c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem08-Prime-Number-Check\obj\Debug\Problem08-Prime-Number-Check.exe
-c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem08-Prime-Number-Check\obj\Debug\Problem08-Prime-Number-Check.pdb
-C:\Users\ASUS\Desktop\Homeworks rars\Operators-Expressions-Statements-Homework\Operators-Expressions-Statements-Homework\Problem08-Prime-Number-Check\bin\Debug\Problem08-Prime-Number-Check.exe.config
-C:\Users\ASUS\Desktop\Homeworks rars\Operators-Expressions-Statements-Homework\Operators-Expressions-Statements-Homework\Problem08-Prime-Number-Check\obj\Debug\Problem08-Prime-Number-Check.exe
-C:\Users\ASUS\Desktop\Homeworks rars\Operators-Expressions-Statements-Homework\Operators-Expressions-Statements-Homework\Problem08-Prime-Number-Check\obj\Debug\Problem08-Prime-Number-Check.pdb

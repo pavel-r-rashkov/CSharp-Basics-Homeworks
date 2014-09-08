@@ -1,8 +1,0 @@
-c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem06-Four-Digit-Number\bin\Debug\Problem06-Four-Digit-Number.exe.config
-c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem06-Four-Digit-Number\bin\Debug\Problem06-Four-Digit-Number.exe
-c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem06-Four-Digit-Number\bin\Debug\Problem06-Four-Digit-Number.pdb
-c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem06-Four-Digit-Number\obj\Debug\Problem06-Four-Digit-Number.exe
-c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem06-Four-Digit-Number\obj\Debug\Problem06-Four-Digit-Number.pdb
-C:\Users\ASUS\Desktop\Homeworks rars\Operators-Expressions-Statements-Homework\Operators-Expressions-Statements-Homework\Problem06-Four-Digit-Number\bin\Debug\Problem06-Four-Digit-Number.exe.config
-C:\Users\ASUS\Desktop\Homeworks rars\Operators-Expressions-Statements-Homework\Operators-Expressions-Statements-Homework\Problem06-Four-Digit-Number\obj\Debug\Problem06-Four-Digit-Number.exe
-C:\Users\ASUS\Desktop\Homeworks rars\Operators-Expressions-Statements-Homework\Operators-Expressions-Statements-Homework\Problem06-Four-Digit-Number\obj\Debug\Problem06-Four-Digit-Number.pdb

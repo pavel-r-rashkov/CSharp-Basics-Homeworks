@@ -1,5 +1,0 @@
-c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem18-Odd-Even-Sum\bin\Debug\Problem18-Odd-Even-Sum.exe.config
-c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem18-Odd-Even-Sum\bin\Debug\Problem18-Odd-Even-Sum.exe
-c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem18-Odd-Even-Sum\bin\Debug\Problem18-Odd-Even-Sum.pdb
-c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem18-Odd-Even-Sum\obj\Debug\Problem18-Odd-Even-Sum.exe
-c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem18-Odd-Even-Sum\obj\Debug\Problem18-Odd-Even-Sum.pdb

@@ -1,5 +1,0 @@
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem10-Beer-Time\bin\Debug\Problem10-Beer-Time.exe.config
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem10-Beer-Time\bin\Debug\Problem10-Beer-Time.exe
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem10-Beer-Time\bin\Debug\Problem10-Beer-Time.pdb
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem10-Beer-Time\obj\Debug\Problem10-Beer-Time.exe
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem10-Beer-Time\obj\Debug\Problem10-Beer-Time.pdb

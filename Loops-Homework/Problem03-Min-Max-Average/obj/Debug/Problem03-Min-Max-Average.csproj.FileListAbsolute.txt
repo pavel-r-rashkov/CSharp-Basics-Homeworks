@@ -1,8 +1,0 @@
-c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem03-Min-Max-Average\bin\Debug\Problem03-Min-Max-Average.exe.config
-c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem03-Min-Max-Average\bin\Debug\Problem03-Min-Max-Average.exe
-c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem03-Min-Max-Average\bin\Debug\Problem03-Min-Max-Average.pdb
-c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem03-Min-Max-Average\obj\Debug\Problem03-Min-Max-Average.exe
-c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem03-Min-Max-Average\obj\Debug\Problem03-Min-Max-Average.pdb
-C:\Users\ASUS\Desktop\C# Homeworks rars\Loops-Homework\Problem03-Min-Max-Average\bin\Debug\Problem03-Min-Max-Average.exe.config
-C:\Users\ASUS\Desktop\C# Homeworks rars\Loops-Homework\Problem03-Min-Max-Average\obj\Debug\Problem03-Min-Max-Average.exe
-C:\Users\ASUS\Desktop\C# Homeworks rars\Loops-Homework\Problem03-Min-Max-Average\obj\Debug\Problem03-Min-Max-Average.pdb

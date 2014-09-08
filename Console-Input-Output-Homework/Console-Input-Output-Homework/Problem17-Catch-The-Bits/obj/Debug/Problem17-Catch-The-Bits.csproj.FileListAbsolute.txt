@@ -1,9 +1,0 @@
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Console-Input-Output-Homework\Problem17-Catch-The-Bits\bin\Debug\Problem17-Catch-The-Bits.exe.config
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Console-Input-Output-Homework\Problem17-Catch-The-Bits\obj\Debug\Problem17-Catch-The-Bits.csprojResolveAssemblyReference.cache
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Console-Input-Output-Homework\Problem17-Catch-The-Bits\bin\Debug\Problem17-Catch-The-Bits.exe
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Console-Input-Output-Homework\Problem17-Catch-The-Bits\bin\Debug\Problem17-Catch-The-Bits.pdb
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Console-Input-Output-Homework\Problem17-Catch-The-Bits\obj\Debug\Problem17-Catch-The-Bits.exe
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Console-Input-Output-Homework\Problem17-Catch-The-Bits\obj\Debug\Problem17-Catch-The-Bits.pdb
-C:\Users\ASUS\Desktop\Homeworks rars\Console-Input-Output-Homework\Console-Input-Output-Homework\Problem17-Catch-The-Bits\bin\Debug\Problem17-Catch-The-Bits.exe.config
-C:\Users\ASUS\Desktop\Homeworks rars\Console-Input-Output-Homework\Console-Input-Output-Homework\Problem17-Catch-The-Bits\obj\Debug\Problem17-Catch-The-Bits.exe
-C:\Users\ASUS\Desktop\Homeworks rars\Console-Input-Output-Homework\Console-Input-Output-Homework\Problem17-Catch-The-Bits\obj\Debug\Problem17-Catch-The-Bits.pdb

@@ -1,8 +1,0 @@
-c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem05-Calculate\bin\Debug\Problem05-Calculate.exe.config
-c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem05-Calculate\bin\Debug\Problem05-Calculate.exe
-c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem05-Calculate\bin\Debug\Problem05-Calculate.pdb
-c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem05-Calculate\obj\Debug\Problem05-Calculate.exe
-c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem05-Calculate\obj\Debug\Problem05-Calculate.pdb
-C:\Users\ASUS\Desktop\C# Homeworks rars\Loops-Homework\Problem05-Calculate\bin\Debug\Problem05-Calculate.exe.config
-C:\Users\ASUS\Desktop\C# Homeworks rars\Loops-Homework\Problem05-Calculate\obj\Debug\Problem05-Calculate.exe
-C:\Users\ASUS\Desktop\C# Homeworks rars\Loops-Homework\Problem05-Calculate\obj\Debug\Problem05-Calculate.pdb

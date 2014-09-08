@@ -1,8 +1,0 @@
-c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem13-Check-Bit\bin\Debug\Problem13-Check-Bit.exe.config
-c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem13-Check-Bit\bin\Debug\Problem13-Check-Bit.exe
-c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem13-Check-Bit\bin\Debug\Problem13-Check-Bit.pdb
-c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem13-Check-Bit\obj\Debug\Problem13-Check-Bit.exe
-c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem13-Check-Bit\obj\Debug\Problem13-Check-Bit.pdb
-C:\Users\ASUS\Desktop\Homeworks rars\Operators-Expressions-Statements-Homework\Operators-Expressions-Statements-Homework\Problem13-Check-Bit\bin\Debug\Problem13-Check-Bit.exe.config
-C:\Users\ASUS\Desktop\Homeworks rars\Operators-Expressions-Statements-Homework\Operators-Expressions-Statements-Homework\Problem13-Check-Bit\obj\Debug\Problem13-Check-Bit.exe
-C:\Users\ASUS\Desktop\Homeworks rars\Operators-Expressions-Statements-Homework\Operators-Expressions-Statements-Homework\Problem13-Check-Bit\obj\Debug\Problem13-Check-Bit.pdb

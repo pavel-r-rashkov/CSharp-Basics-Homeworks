@@ -1,6 +1,0 @@
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem14-Pairs\bin\Debug\Problem14-Pairs.exe.config
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem14-Pairs\bin\Debug\Problem14-Pairs.exe
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem14-Pairs\bin\Debug\Problem14-Pairs.pdb
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem14-Pairs\obj\Debug\Problem14-Pairs.csprojResolveAssemblyReference.cache
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem14-Pairs\obj\Debug\Problem14-Pairs.exe
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem14-Pairs\obj\Debug\Problem14-Pairs.pdb

@@ -1,9 +1,0 @@
-c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem15-Hexadecimal-To-Decimal-Number\bin\Debug\Problem15-Hexadecimal-To-Decimal-Number.exe.config
-c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem15-Hexadecimal-To-Decimal-Number\bin\Debug\Problem15-Hexadecimal-To-Decimal-Number.exe
-c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem15-Hexadecimal-To-Decimal-Number\bin\Debug\Problem15-Hexadecimal-To-Decimal-Number.pdb
-c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem15-Hexadecimal-To-Decimal-Number\obj\Debug\Problem15-Hexadecimal-To-Decimal-Number.csprojResolveAssemblyReference.cache
-c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem15-Hexadecimal-To-Decimal-Number\obj\Debug\Problem15-Hexadecimal-To-Decimal-Number.exe
-c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem15-Hexadecimal-To-Decimal-Number\obj\Debug\Problem15-Hexadecimal-To-Decimal-Number.pdb
-C:\Users\ASUS\Desktop\C# Homeworks rars\Loops-Homework\Problem15-Hexadecimal-To-Decimal-Number\bin\Debug\Problem15-Hexadecimal-To-Decimal-Number.exe.config
-C:\Users\ASUS\Desktop\C# Homeworks rars\Loops-Homework\Problem15-Hexadecimal-To-Decimal-Number\obj\Debug\Problem15-Hexadecimal-To-Decimal-Number.exe
-C:\Users\ASUS\Desktop\C# Homeworks rars\Loops-Homework\Problem15-Hexadecimal-To-Decimal-Number\obj\Debug\Problem15-Hexadecimal-To-Decimal-Number.pdb

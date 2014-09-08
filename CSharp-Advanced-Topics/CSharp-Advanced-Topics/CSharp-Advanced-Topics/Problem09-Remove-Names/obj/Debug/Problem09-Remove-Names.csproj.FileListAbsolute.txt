@@ -1,9 +1,0 @@
-c:\users\asus\documents\visual studio 2013\Projects\CSharp-Advanced-Topics\Problem09-Remove-Names\bin\Debug\Problem09-Remove-Names.exe.config
-c:\users\asus\documents\visual studio 2013\Projects\CSharp-Advanced-Topics\Problem09-Remove-Names\bin\Debug\Problem09-Remove-Names.exe
-c:\users\asus\documents\visual studio 2013\Projects\CSharp-Advanced-Topics\Problem09-Remove-Names\bin\Debug\Problem09-Remove-Names.pdb
-c:\users\asus\documents\visual studio 2013\Projects\CSharp-Advanced-Topics\Problem09-Remove-Names\obj\Debug\Problem09-Remove-Names.csprojResolveAssemblyReference.cache
-c:\users\asus\documents\visual studio 2013\Projects\CSharp-Advanced-Topics\Problem09-Remove-Names\obj\Debug\Problem09-Remove-Names.exe
-c:\users\asus\documents\visual studio 2013\Projects\CSharp-Advanced-Topics\Problem09-Remove-Names\obj\Debug\Problem09-Remove-Names.pdb
-C:\Users\ASUS\Desktop\CSharp-Advanced-Topics\CSharp-Advanced-Topics\Problem09-Remove-Names\bin\Debug\Problem09-Remove-Names.exe.config
-C:\Users\ASUS\Desktop\CSharp-Advanced-Topics\CSharp-Advanced-Topics\Problem09-Remove-Names\obj\Debug\Problem09-Remove-Names.exe
-C:\Users\ASUS\Desktop\CSharp-Advanced-Topics\CSharp-Advanced-Topics\Problem09-Remove-Names\obj\Debug\Problem09-Remove-Names.pdb

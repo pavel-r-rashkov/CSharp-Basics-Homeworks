@@ -1,5 +1,0 @@
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem12-Zero-Subset\bin\Debug\Problem12-Zero-Subset.exe.config
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem12-Zero-Subset\bin\Debug\Problem12-Zero-Subset.exe
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem12-Zero-Subset\bin\Debug\Problem12-Zero-Subset.pdb
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem12-Zero-Subset\obj\Debug\Problem12-Zero-Subset.exe
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem12-Zero-Subset\obj\Debug\Problem12-Zero-Subset.pdb

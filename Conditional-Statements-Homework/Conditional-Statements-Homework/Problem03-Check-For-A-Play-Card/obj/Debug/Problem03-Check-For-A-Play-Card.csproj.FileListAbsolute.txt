@@ -1,5 +1,0 @@
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem03-Check-For-A-Play-Card\bin\Debug\Problem03-Check-For-A-Play-Card.exe.config
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem03-Check-For-A-Play-Card\bin\Debug\Problem03-Check-For-A-Play-Card.exe
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem03-Check-For-A-Play-Card\bin\Debug\Problem03-Check-For-A-Play-Card.pdb
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem03-Check-For-A-Play-Card\obj\Debug\Problem03-Check-For-A-Play-Card.exe
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem03-Check-For-A-Play-Card\obj\Debug\Problem03-Check-For-A-Play-Card.pdb

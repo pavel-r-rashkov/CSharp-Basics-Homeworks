@@ -1,5 +1,0 @@
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem06-Biggest-Of-Five\bin\Debug\Problem06-Biggest-Of-Five.exe.config
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem06-Biggest-Of-Five\bin\Debug\Problem06-Biggest-Of-Five.exe
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem06-Biggest-Of-Five\bin\Debug\Problem06-Biggest-Of-Five.pdb
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem06-Biggest-Of-Five\obj\Debug\Problem06-Biggest-Of-Five.exe
-C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem06-Biggest-Of-Five\obj\Debug\Problem06-Biggest-Of-Five.pdb

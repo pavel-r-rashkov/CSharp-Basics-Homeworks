@@ -1,5 +1,0 @@
-c:\users\asus\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\Problem07-Quotes-In-Strings\bin\Debug\Problem07-Quotes-In-Strings.exe.config
-c:\users\asus\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\Problem07-Quotes-In-Strings\bin\Debug\Problem07-Quotes-In-Strings.exe
-c:\users\asus\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\Problem07-Quotes-In-Strings\bin\Debug\Problem07-Quotes-In-Strings.pdb
-c:\users\asus\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\Problem07-Quotes-In-Strings\obj\Debug\Problem07-Quotes-In-Strings.exe
-c:\users\asus\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\Problem07-Quotes-In-Strings\obj\Debug\Problem07-Quotes-In-Strings.pdb
