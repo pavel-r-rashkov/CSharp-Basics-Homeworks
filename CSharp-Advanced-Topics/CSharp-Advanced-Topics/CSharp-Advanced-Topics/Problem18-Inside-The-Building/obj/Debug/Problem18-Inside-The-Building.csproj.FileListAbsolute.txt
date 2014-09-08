@@ -1,0 +1,6 @@
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Topics\Problem18-Inside-The-Building\bin\Debug\Problem18-Inside-The-Building.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Topics\Problem18-Inside-The-Building\bin\Debug\Problem18-Inside-The-Building.exe
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Topics\Problem18-Inside-The-Building\bin\Debug\Problem18-Inside-The-Building.pdb
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Topics\Problem18-Inside-The-Building\obj\Debug\Problem18-Inside-The-Building.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Topics\Problem18-Inside-The-Building\obj\Debug\Problem18-Inside-The-Building.exe
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Topics\Problem18-Inside-The-Building\obj\Debug\Problem18-Inside-The-Building.pdb

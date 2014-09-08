@@ -1,0 +1,11 @@
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Console-Input-Output-Homework\Problem15-New-House\bin\Debug\Problem15-New-House.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Console-Input-Output-Homework\Problem15-New-House\bin\Debug\Problem15-New-House.exe
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Console-Input-Output-Homework\Problem15-New-House\bin\Debug\Problem15-New-House.pdb
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Console-Input-Output-Homework\Problem15-New-House\obj\Debug\Problem15-New-House.exe
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Console-Input-Output-Homework\Problem15-New-House\obj\Debug\Problem15-New-House.pdb
+C:\Users\ASUS\Desktop\Homeworks rars\Console-Input-Output-Homework\Console-Input-Output-Homework\Problem15-New-House\bin\Debug\Problem15-New-House.exe.config
+C:\Users\ASUS\Desktop\Homeworks rars\Console-Input-Output-Homework\Console-Input-Output-Homework\Problem15-New-House\obj\Debug\Problem15-New-House.exe
+C:\Users\ASUS\Desktop\Homeworks rars\Console-Input-Output-Homework\Console-Input-Output-Homework\Problem15-New-House\obj\Debug\Problem15-New-House.pdb
+C:\Users\ASUS\Desktop\C# Homeworks rars\Console-Input-Output-Homework\Console-Input-Output-Homework\Problem15-New-House\bin\Debug\Problem15-New-House.exe.config
+C:\Users\ASUS\Desktop\C# Homeworks rars\Console-Input-Output-Homework\Console-Input-Output-Homework\Problem15-New-House\obj\Debug\Problem15-New-House.exe
+C:\Users\ASUS\Desktop\C# Homeworks rars\Console-Input-Output-Homework\Console-Input-Output-Homework\Problem15-New-House\obj\Debug\Problem15-New-House.pdb

@@ -1,0 +1,12 @@
+c:\users\asus\documents\visual studio 2013\Projects\Console-Input-Output-Homework\Problem02-Print-Company-Information\bin\Debug\Problem02-Print-Company-Information.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\Console-Input-Output-Homework\Problem02-Print-Company-Information\bin\Debug\Problem02-Print-Company-Information.exe
+c:\users\asus\documents\visual studio 2013\Projects\Console-Input-Output-Homework\Problem02-Print-Company-Information\bin\Debug\Problem02-Print-Company-Information.pdb
+c:\users\asus\documents\visual studio 2013\Projects\Console-Input-Output-Homework\Problem02-Print-Company-Information\obj\Debug\Problem02-Print-Company-Information.exe
+c:\users\asus\documents\visual studio 2013\Projects\Console-Input-Output-Homework\Problem02-Print-Company-Information\obj\Debug\Problem02-Print-Company-Information.pdb
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Console-Input-Output-Homework\Problem02-Print-Company-Information\obj\Debug\Problem02-Print-Company-Information.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Homeworks rars\Console-Input-Output-Homework\Console-Input-Output-Homework\Problem02-Print-Company-Information\bin\Debug\Problem02-Print-Company-Information.exe.config
+C:\Users\ASUS\Desktop\Homeworks rars\Console-Input-Output-Homework\Console-Input-Output-Homework\Problem02-Print-Company-Information\obj\Debug\Problem02-Print-Company-Information.exe
+C:\Users\ASUS\Desktop\Homeworks rars\Console-Input-Output-Homework\Console-Input-Output-Homework\Problem02-Print-Company-Information\obj\Debug\Problem02-Print-Company-Information.pdb
+C:\Users\ASUS\Desktop\C# Homeworks rars\Console-Input-Output-Homework\Console-Input-Output-Homework\Problem02-Print-Company-Information\bin\Debug\Problem02-Print-Company-Information.exe.config
+C:\Users\ASUS\Desktop\C# Homeworks rars\Console-Input-Output-Homework\Console-Input-Output-Homework\Problem02-Print-Company-Information\obj\Debug\Problem02-Print-Company-Information.exe
+C:\Users\ASUS\Desktop\C# Homeworks rars\Console-Input-Output-Homework\Console-Input-Output-Homework\Problem02-Print-Company-Information\obj\Debug\Problem02-Print-Company-Information.pdb

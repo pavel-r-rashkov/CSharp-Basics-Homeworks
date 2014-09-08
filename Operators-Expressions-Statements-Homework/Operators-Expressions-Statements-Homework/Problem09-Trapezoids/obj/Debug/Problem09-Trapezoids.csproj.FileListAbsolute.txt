@@ -1,0 +1,5 @@
+c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem09-Trapezoids\bin\Debug\Problem09-Trapezoids.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem09-Trapezoids\bin\Debug\Problem09-Trapezoids.exe
+c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem09-Trapezoids\bin\Debug\Problem09-Trapezoids.pdb
+c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem09-Trapezoids\obj\Debug\Problem09-Trapezoids.exe
+c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem09-Trapezoids\obj\Debug\Problem09-Trapezoids.pdb

@@ -1,0 +1,6 @@
+c:\users\asus\documents\visual studio 2013\Projects\Conditional-Statements-Homework\Problem17-Bit-Killer\bin\Debug\Problem17-Bit-Killer.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\Conditional-Statements-Homework\Problem17-Bit-Killer\bin\Debug\Problem17-Bit-Killer.exe
+c:\users\asus\documents\visual studio 2013\Projects\Conditional-Statements-Homework\Problem17-Bit-Killer\bin\Debug\Problem17-Bit-Killer.pdb
+c:\users\asus\documents\visual studio 2013\Projects\Conditional-Statements-Homework\Problem17-Bit-Killer\obj\Debug\Problem17-Bit-Killer.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\Conditional-Statements-Homework\Problem17-Bit-Killer\obj\Debug\Problem17-Bit-Killer.exe
+c:\users\asus\documents\visual studio 2013\Projects\Conditional-Statements-Homework\Problem17-Bit-Killer\obj\Debug\Problem17-Bit-Killer.pdb

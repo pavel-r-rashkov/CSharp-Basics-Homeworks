@@ -1,0 +1,5 @@
+c:\users\asus\documents\visual studio 2013\Projects\CSharp-Advanced-Topics\Problem05-Sorting-Numbers\bin\Debug\Problem05-Sorting-Numbers.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\CSharp-Advanced-Topics\Problem05-Sorting-Numbers\bin\Debug\Problem05-Sorting-Numbers.exe
+c:\users\asus\documents\visual studio 2013\Projects\CSharp-Advanced-Topics\Problem05-Sorting-Numbers\bin\Debug\Problem05-Sorting-Numbers.pdb
+c:\users\asus\documents\visual studio 2013\Projects\CSharp-Advanced-Topics\Problem05-Sorting-Numbers\obj\Debug\Problem05-Sorting-Numbers.exe
+c:\users\asus\documents\visual studio 2013\Projects\CSharp-Advanced-Topics\Problem05-Sorting-Numbers\obj\Debug\Problem05-Sorting-Numbers.pdb

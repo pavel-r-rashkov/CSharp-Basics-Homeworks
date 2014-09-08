@@ -1,0 +1,8 @@
+c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem18-Trailing-Zeroes\bin\Debug\Problem18-Trailing-Zeroes.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem18-Trailing-Zeroes\bin\Debug\Problem18-Trailing-Zeroes.exe
+c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem18-Trailing-Zeroes\bin\Debug\Problem18-Trailing-Zeroes.pdb
+c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem18-Trailing-Zeroes\obj\Debug\Problem18-Trailing-Zeroes.exe
+c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem18-Trailing-Zeroes\obj\Debug\Problem18-Trailing-Zeroes.pdb
+C:\Users\ASUS\Desktop\C# Homeworks rars\Loops-Homework\Problem18-Trailing-Zeroes\bin\Debug\Problem18-Trailing-Zeroes.exe.config
+C:\Users\ASUS\Desktop\C# Homeworks rars\Loops-Homework\Problem18-Trailing-Zeroes\obj\Debug\Problem18-Trailing-Zeroes.exe
+C:\Users\ASUS\Desktop\C# Homeworks rars\Loops-Homework\Problem18-Trailing-Zeroes\obj\Debug\Problem18-Trailing-Zeroes.pdb

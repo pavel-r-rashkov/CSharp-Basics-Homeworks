@@ -1,0 +1,8 @@
+c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem02-Numbers-Not-Divisible-3-7\bin\Debug\Problem02-Numbers-Not-Divisible-3-7.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem02-Numbers-Not-Divisible-3-7\bin\Debug\Problem02-Numbers-Not-Divisible-3-7.exe
+c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem02-Numbers-Not-Divisible-3-7\bin\Debug\Problem02-Numbers-Not-Divisible-3-7.pdb
+c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem02-Numbers-Not-Divisible-3-7\obj\Debug\Problem02-Numbers-Not-Divisible-3-7.exe
+c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem02-Numbers-Not-Divisible-3-7\obj\Debug\Problem02-Numbers-Not-Divisible-3-7.pdb
+C:\Users\ASUS\Desktop\C# Homeworks rars\Loops-Homework\Problem02-Numbers-Not-Divisible-3-7\bin\Debug\Problem02-Numbers-Not-Divisible-3-7.exe.config
+C:\Users\ASUS\Desktop\C# Homeworks rars\Loops-Homework\Problem02-Numbers-Not-Divisible-3-7\obj\Debug\Problem02-Numbers-Not-Divisible-3-7.exe
+C:\Users\ASUS\Desktop\C# Homeworks rars\Loops-Homework\Problem02-Numbers-Not-Divisible-3-7\obj\Debug\Problem02-Numbers-Not-Divisible-3-7.pdb

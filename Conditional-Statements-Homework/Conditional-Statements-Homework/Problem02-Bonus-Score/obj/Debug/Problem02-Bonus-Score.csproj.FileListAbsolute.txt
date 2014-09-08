@@ -1,0 +1,5 @@
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem02-Bonus-Score\bin\Debug\Problem02-Bonus-Score.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem02-Bonus-Score\bin\Debug\Problem02-Bonus-Score.exe
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem02-Bonus-Score\bin\Debug\Problem02-Bonus-Score.pdb
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem02-Bonus-Score\obj\Debug\Problem02-Bonus-Score.exe
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem02-Bonus-Score\obj\Debug\Problem02-Bonus-Score.pdb

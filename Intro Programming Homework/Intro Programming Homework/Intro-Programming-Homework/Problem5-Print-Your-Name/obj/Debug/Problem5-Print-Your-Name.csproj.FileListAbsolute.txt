@@ -1,0 +1,8 @@
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\Problem5-Print-Your-Name\bin\Debug\Problem5-Print-Your-Name.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\Problem5-Print-Your-Name\bin\Debug\Problem5-Print-Your-Name.exe
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\Problem5-Print-Your-Name\bin\Debug\Problem5-Print-Your-Name.pdb
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\Problem5-Print-Your-Name\obj\Debug\Problem5-Print-Your-Name.exe
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\Problem5-Print-Your-Name\obj\Debug\Problem5-Print-Your-Name.pdb
+C:\Users\ASUS\Desktop\Homeworks rars\Intro Programming Homework\Intro Programming Homework\Intro-Programming-Homework\Problem5-Print-Your-Name\bin\Debug\Problem5-Print-Your-Name.exe.config
+C:\Users\ASUS\Desktop\Homeworks rars\Intro Programming Homework\Intro Programming Homework\Intro-Programming-Homework\Problem5-Print-Your-Name\obj\Debug\Problem5-Print-Your-Name.exe
+C:\Users\ASUS\Desktop\Homeworks rars\Intro Programming Homework\Intro Programming Homework\Intro-Programming-Homework\Problem5-Print-Your-Name\obj\Debug\Problem5-Print-Your-Name.pdb

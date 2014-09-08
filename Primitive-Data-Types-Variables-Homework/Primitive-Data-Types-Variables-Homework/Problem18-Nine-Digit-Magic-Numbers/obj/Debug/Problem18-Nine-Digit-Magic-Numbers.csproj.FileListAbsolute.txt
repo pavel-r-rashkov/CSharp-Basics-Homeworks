@@ -1,0 +1,12 @@
+c:\users\asus\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\Problem18-Nine-Digit-Magic-Numbers\bin\Debug\Problem18-Nine-Digit-Magic-Numbers.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\Problem18-Nine-Digit-Magic-Numbers\obj\Debug\Problem18-Nine-Digit-Magic-Numbers.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\Problem18-Nine-Digit-Magic-Numbers\bin\Debug\Problem18-Nine-Digit-Magic-Numbers.exe
+c:\users\asus\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\Problem18-Nine-Digit-Magic-Numbers\bin\Debug\Problem18-Nine-Digit-Magic-Numbers.pdb
+c:\users\asus\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\Problem18-Nine-Digit-Magic-Numbers\obj\Debug\Problem18-Nine-Digit-Magic-Numbers.exe
+c:\users\asus\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\Problem18-Nine-Digit-Magic-Numbers\obj\Debug\Problem18-Nine-Digit-Magic-Numbers.pdb
+C:\Users\ASUS\Desktop\Homeworks rars\Primitive-Data-Types-Variables-Homework\Primitive-Data-Types-Variables-Homework\Problem18-Nine-Digit-Magic-Numbers\bin\Debug\Problem18-Nine-Digit-Magic-Numbers.exe.config
+C:\Users\ASUS\Desktop\Homeworks rars\Primitive-Data-Types-Variables-Homework\Primitive-Data-Types-Variables-Homework\Problem18-Nine-Digit-Magic-Numbers\obj\Debug\Problem18-Nine-Digit-Magic-Numbers.exe
+C:\Users\ASUS\Desktop\Homeworks rars\Primitive-Data-Types-Variables-Homework\Primitive-Data-Types-Variables-Homework\Problem18-Nine-Digit-Magic-Numbers\obj\Debug\Problem18-Nine-Digit-Magic-Numbers.pdb
+C:\Users\ASUS\Desktop\C# Homeworks rars\Primitive-Data-Types-Variables-Homework\Primitive-Data-Types-Variables-Homework\Problem18-Nine-Digit-Magic-Numbers\bin\Debug\Problem18-Nine-Digit-Magic-Numbers.exe.config
+C:\Users\ASUS\Desktop\C# Homeworks rars\Primitive-Data-Types-Variables-Homework\Primitive-Data-Types-Variables-Homework\Problem18-Nine-Digit-Magic-Numbers\obj\Debug\Problem18-Nine-Digit-Magic-Numbers.exe
+C:\Users\ASUS\Desktop\C# Homeworks rars\Primitive-Data-Types-Variables-Homework\Primitive-Data-Types-Variables-Homework\Problem18-Nine-Digit-Magic-Numbers\obj\Debug\Problem18-Nine-Digit-Magic-Numbers.pdb

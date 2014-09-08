@@ -1,0 +1,11 @@
+c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem19-Explorer\bin\Debug\Problem19-Explorer.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem19-Explorer\bin\Debug\Problem19-Explorer.exe
+c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem19-Explorer\bin\Debug\Problem19-Explorer.pdb
+c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem19-Explorer\obj\Debug\Problem19-Explorer.exe
+c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem19-Explorer\obj\Debug\Problem19-Explorer.pdb
+C:\Users\ASUS\Desktop\Homeworks rars\Operators-Expressions-Statements-Homework\Operators-Expressions-Statements-Homework\Problem19-Explorer\bin\Debug\Problem19-Explorer.exe.config
+C:\Users\ASUS\Desktop\Homeworks rars\Operators-Expressions-Statements-Homework\Operators-Expressions-Statements-Homework\Problem19-Explorer\obj\Debug\Problem19-Explorer.exe
+C:\Users\ASUS\Desktop\Homeworks rars\Operators-Expressions-Statements-Homework\Operators-Expressions-Statements-Homework\Problem19-Explorer\obj\Debug\Problem19-Explorer.pdb
+C:\Users\ASUS\Desktop\C# Homeworks rars\Operators-Expressions-Statements-Homework\Operators-Expressions-Statements-Homework\Problem19-Explorer\bin\Debug\Problem19-Explorer.exe.config
+C:\Users\ASUS\Desktop\C# Homeworks rars\Operators-Expressions-Statements-Homework\Operators-Expressions-Statements-Homework\Problem19-Explorer\obj\Debug\Problem19-Explorer.exe
+C:\Users\ASUS\Desktop\C# Homeworks rars\Operators-Expressions-Statements-Homework\Operators-Expressions-Statements-Homework\Problem19-Explorer\obj\Debug\Problem19-Explorer.pdb

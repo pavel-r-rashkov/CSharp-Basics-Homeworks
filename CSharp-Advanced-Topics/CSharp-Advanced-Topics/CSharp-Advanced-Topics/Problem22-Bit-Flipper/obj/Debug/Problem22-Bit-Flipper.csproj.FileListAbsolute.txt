@@ -1,0 +1,6 @@
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Topics\Problem22-Bit-Flipper\bin\Debug\Problem22-Bit-Flipper.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Topics\Problem22-Bit-Flipper\obj\Debug\Problem22-Bit-Flipper.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Topics\Problem22-Bit-Flipper\bin\Debug\Problem22-Bit-Flipper.exe
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Topics\Problem22-Bit-Flipper\bin\Debug\Problem22-Bit-Flipper.pdb
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Topics\Problem22-Bit-Flipper\obj\Debug\Problem22-Bit-Flipper.exe
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Topics\Problem22-Bit-Flipper\obj\Debug\Problem22-Bit-Flipper.pdb

@@ -1,0 +1,8 @@
+c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem15-Bits-Exchange\bin\Debug\Problem15-Bits-Exchange.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem15-Bits-Exchange\bin\Debug\Problem15-Bits-Exchange.exe
+c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem15-Bits-Exchange\bin\Debug\Problem15-Bits-Exchange.pdb
+c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem15-Bits-Exchange\obj\Debug\Problem15-Bits-Exchange.exe
+c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem15-Bits-Exchange\obj\Debug\Problem15-Bits-Exchange.pdb
+C:\Users\ASUS\Desktop\Homeworks rars\Operators-Expressions-Statements-Homework\Operators-Expressions-Statements-Homework\Problem15-Bits-Exchange\bin\Debug\Problem15-Bits-Exchange.exe.config
+C:\Users\ASUS\Desktop\Homeworks rars\Operators-Expressions-Statements-Homework\Operators-Expressions-Statements-Homework\Problem15-Bits-Exchange\obj\Debug\Problem15-Bits-Exchange.exe
+C:\Users\ASUS\Desktop\Homeworks rars\Operators-Expressions-Statements-Homework\Operators-Expressions-Statements-Homework\Problem15-Bits-Exchange\obj\Debug\Problem15-Bits-Exchange.pdb

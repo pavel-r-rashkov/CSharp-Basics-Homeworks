@@ -1,0 +1,8 @@
+c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem02-Gravitation-Moon\bin\Debug\Problem02-Gravitation-Moon.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem02-Gravitation-Moon\bin\Debug\Problem02-Gravitation-Moon.exe
+c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem02-Gravitation-Moon\bin\Debug\Problem02-Gravitation-Moon.pdb
+c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem02-Gravitation-Moon\obj\Debug\Problem02-Gravitation-Moon.exe
+c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem02-Gravitation-Moon\obj\Debug\Problem02-Gravitation-Moon.pdb
+C:\Users\ASUS\Desktop\Homeworks rars\Operators-Expressions-Statements-Homework\Operators-Expressions-Statements-Homework\Problem02-Gravitation-Moon\bin\Debug\Problem02-Gravitation-Moon.exe.config
+C:\Users\ASUS\Desktop\Homeworks rars\Operators-Expressions-Statements-Homework\Operators-Expressions-Statements-Homework\Problem02-Gravitation-Moon\obj\Debug\Problem02-Gravitation-Moon.exe
+C:\Users\ASUS\Desktop\Homeworks rars\Operators-Expressions-Statements-Homework\Operators-Expressions-Statements-Homework\Problem02-Gravitation-Moon\obj\Debug\Problem02-Gravitation-Moon.pdb

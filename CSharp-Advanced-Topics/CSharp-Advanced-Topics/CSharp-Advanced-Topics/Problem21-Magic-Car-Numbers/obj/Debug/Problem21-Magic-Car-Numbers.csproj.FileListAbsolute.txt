@@ -1,0 +1,9 @@
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Topics\Problem21-Magic-Car-Numbers\bin\Debug\Problem21-Magic-Car-Numbers.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Topics\Problem21-Magic-Car-Numbers\bin\Debug\Problem21-Magic-Car-Numbers.exe
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Topics\Problem21-Magic-Car-Numbers\bin\Debug\Problem21-Magic-Car-Numbers.pdb
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Topics\Problem21-Magic-Car-Numbers\obj\Debug\Problem21-Magic-Car-Numbers.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Topics\Problem21-Magic-Car-Numbers\obj\Debug\Problem21-Magic-Car-Numbers.exe
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Topics\Problem21-Magic-Car-Numbers\obj\Debug\Problem21-Magic-Car-Numbers.pdb
+C:\Users\ASUS\Desktop\CSharp-Advanced-Topics\CSharp-Advanced-Topics\Problem21-Magic-Car-Numbers\bin\Debug\Problem21-Magic-Car-Numbers.exe.config
+C:\Users\ASUS\Desktop\CSharp-Advanced-Topics\CSharp-Advanced-Topics\Problem21-Magic-Car-Numbers\obj\Debug\Problem21-Magic-Car-Numbers.exe
+C:\Users\ASUS\Desktop\CSharp-Advanced-Topics\CSharp-Advanced-Topics\Problem21-Magic-Car-Numbers\obj\Debug\Problem21-Magic-Car-Numbers.pdb

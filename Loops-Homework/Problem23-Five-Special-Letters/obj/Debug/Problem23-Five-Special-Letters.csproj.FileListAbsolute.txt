@@ -1,0 +1,11 @@
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Loops-Homework\Problem23-Five-Special-Letters\bin\Debug\Problem23-Five-Special-Letters.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Loops-Homework\Problem23-Five-Special-Letters\bin\Debug\Problem23-Five-Special-Letters.exe
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Loops-Homework\Problem23-Five-Special-Letters\bin\Debug\Problem23-Five-Special-Letters.pdb
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Loops-Homework\Problem23-Five-Special-Letters\obj\Debug\Problem23-Five-Special-Letters.exe
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Loops-Homework\Problem23-Five-Special-Letters\obj\Debug\Problem23-Five-Special-Letters.pdb
+C:\Users\ASUS\Desktop\Homeworks rars\Loops-Homework\Problem23-Five-Special-Letters\bin\Debug\Problem23-Five-Special-Letters.exe.config
+C:\Users\ASUS\Desktop\Homeworks rars\Loops-Homework\Problem23-Five-Special-Letters\obj\Debug\Problem23-Five-Special-Letters.exe
+C:\Users\ASUS\Desktop\Homeworks rars\Loops-Homework\Problem23-Five-Special-Letters\obj\Debug\Problem23-Five-Special-Letters.pdb
+C:\Users\ASUS\Desktop\C# Homeworks rars\Loops-Homework\Problem23-Five-Special-Letters\bin\Debug\Problem23-Five-Special-Letters.exe.config
+C:\Users\ASUS\Desktop\C# Homeworks rars\Loops-Homework\Problem23-Five-Special-Letters\obj\Debug\Problem23-Five-Special-Letters.exe
+C:\Users\ASUS\Desktop\C# Homeworks rars\Loops-Homework\Problem23-Five-Special-Letters\obj\Debug\Problem23-Five-Special-Letters.pdb

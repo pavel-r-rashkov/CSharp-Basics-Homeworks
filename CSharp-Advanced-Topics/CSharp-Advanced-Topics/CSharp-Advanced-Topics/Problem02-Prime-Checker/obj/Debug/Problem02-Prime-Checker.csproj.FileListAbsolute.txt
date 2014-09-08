@@ -1,0 +1,5 @@
+c:\users\asus\documents\visual studio 2013\Projects\CSharp-Advanced-Topics\Problem02-Prime-Checker\bin\Debug\Problem02-Prime-Checker.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\CSharp-Advanced-Topics\Problem02-Prime-Checker\bin\Debug\Problem02-Prime-Checker.exe
+c:\users\asus\documents\visual studio 2013\Projects\CSharp-Advanced-Topics\Problem02-Prime-Checker\bin\Debug\Problem02-Prime-Checker.pdb
+c:\users\asus\documents\visual studio 2013\Projects\CSharp-Advanced-Topics\Problem02-Prime-Checker\obj\Debug\Problem02-Prime-Checker.exe
+c:\users\asus\documents\visual studio 2013\Projects\CSharp-Advanced-Topics\Problem02-Prime-Checker\obj\Debug\Problem02-Prime-Checker.pdb
