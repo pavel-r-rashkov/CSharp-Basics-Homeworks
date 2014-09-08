@@ -1,0 +1,8 @@
+c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem16-Bits-Exchange-Advanced\bin\Debug\Problem16-Bits-Exchange-Advanced.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem16-Bits-Exchange-Advanced\bin\Debug\Problem16-Bits-Exchange-Advanced.exe
+c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem16-Bits-Exchange-Advanced\bin\Debug\Problem16-Bits-Exchange-Advanced.pdb
+c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem16-Bits-Exchange-Advanced\obj\Debug\Problem16-Bits-Exchange-Advanced.exe
+c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem16-Bits-Exchange-Advanced\obj\Debug\Problem16-Bits-Exchange-Advanced.pdb
+C:\Users\ASUS\Desktop\Homeworks rars\Operators-Expressions-Statements-Homework\Operators-Expressions-Statements-Homework\Problem16-Bits-Exchange-Advanced\bin\Debug\Problem16-Bits-Exchange-Advanced.exe.config
+C:\Users\ASUS\Desktop\Homeworks rars\Operators-Expressions-Statements-Homework\Operators-Expressions-Statements-Homework\Problem16-Bits-Exchange-Advanced\obj\Debug\Problem16-Bits-Exchange-Advanced.exe
+C:\Users\ASUS\Desktop\Homeworks rars\Operators-Expressions-Statements-Homework\Operators-Expressions-Statements-Homework\Problem16-Bits-Exchange-Advanced\obj\Debug\Problem16-Bits-Exchange-Advanced.pdb

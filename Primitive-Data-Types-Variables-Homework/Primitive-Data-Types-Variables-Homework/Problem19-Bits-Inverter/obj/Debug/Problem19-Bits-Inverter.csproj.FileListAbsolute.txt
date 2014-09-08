@@ -1,0 +1,9 @@
+c:\users\asus\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\Problem19-Bits-Inverter\bin\Debug\Problem19-Bits-Inverter.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\Problem19-Bits-Inverter\bin\Debug\Problem19-Bits-Inverter.exe
+c:\users\asus\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\Problem19-Bits-Inverter\bin\Debug\Problem19-Bits-Inverter.pdb
+c:\users\asus\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\Problem19-Bits-Inverter\obj\Debug\Problem19-Bits-Inverter.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\Problem19-Bits-Inverter\obj\Debug\Problem19-Bits-Inverter.exe
+c:\users\asus\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\Problem19-Bits-Inverter\obj\Debug\Problem19-Bits-Inverter.pdb
+C:\Users\ASUS\Desktop\Homeworks rars\Primitive-Data-Types-Variables-Homework\Primitive-Data-Types-Variables-Homework\Problem19-Bits-Inverter\bin\Debug\Problem19-Bits-Inverter.exe.config
+C:\Users\ASUS\Desktop\Homeworks rars\Primitive-Data-Types-Variables-Homework\Primitive-Data-Types-Variables-Homework\Problem19-Bits-Inverter\obj\Debug\Problem19-Bits-Inverter.exe
+C:\Users\ASUS\Desktop\Homeworks rars\Primitive-Data-Types-Variables-Homework\Primitive-Data-Types-Variables-Homework\Problem19-Bits-Inverter\obj\Debug\Problem19-Bits-Inverter.pdb

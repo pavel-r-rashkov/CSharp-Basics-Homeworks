@@ -1,0 +1,5 @@
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem08-Digit-As-Word\bin\Debug\Problem08-Digit-As-Word.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem08-Digit-As-Word\bin\Debug\Problem08-Digit-As-Word.exe
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem08-Digit-As-Word\bin\Debug\Problem08-Digit-As-Word.pdb
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem08-Digit-As-Word\obj\Debug\Problem08-Digit-As-Word.exe
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem08-Digit-As-Word\obj\Debug\Problem08-Digit-As-Word.pdb

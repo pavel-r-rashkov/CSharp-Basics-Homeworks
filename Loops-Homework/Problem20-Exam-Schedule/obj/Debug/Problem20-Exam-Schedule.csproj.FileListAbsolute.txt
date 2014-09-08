@@ -1,0 +1,9 @@
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Loops-Homework\Problem20-Exam-Schedule\bin\Debug\Problem20-Exam-Schedule.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Loops-Homework\Problem20-Exam-Schedule\bin\Debug\Problem20-Exam-Schedule.exe
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Loops-Homework\Problem20-Exam-Schedule\bin\Debug\Problem20-Exam-Schedule.pdb
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Loops-Homework\Problem20-Exam-Schedule\obj\Debug\Problem20-Exam-Schedule.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Loops-Homework\Problem20-Exam-Schedule\obj\Debug\Problem20-Exam-Schedule.exe
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Loops-Homework\Problem20-Exam-Schedule\obj\Debug\Problem20-Exam-Schedule.pdb
+C:\Users\ASUS\Desktop\C# Homeworks rars\Loops-Homework\Problem20-Exam-Schedule\bin\Debug\Problem20-Exam-Schedule.exe.config
+C:\Users\ASUS\Desktop\C# Homeworks rars\Loops-Homework\Problem20-Exam-Schedule\obj\Debug\Problem20-Exam-Schedule.exe
+C:\Users\ASUS\Desktop\C# Homeworks rars\Loops-Homework\Problem20-Exam-Schedule\obj\Debug\Problem20-Exam-Schedule.pdb

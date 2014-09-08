@@ -1,0 +1,5 @@
+c:\users\asus\documents\visual studio 2013\Projects\CSharp-Advanced-Topics\Problem12-Count-Of-Names\bin\Debug\Problem12-Count-Of-Names.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\CSharp-Advanced-Topics\Problem12-Count-Of-Names\bin\Debug\Problem12-Count-Of-Names.exe
+c:\users\asus\documents\visual studio 2013\Projects\CSharp-Advanced-Topics\Problem12-Count-Of-Names\bin\Debug\Problem12-Count-Of-Names.pdb
+c:\users\asus\documents\visual studio 2013\Projects\CSharp-Advanced-Topics\Problem12-Count-Of-Names\obj\Debug\Problem12-Count-Of-Names.exe
+c:\users\asus\documents\visual studio 2013\Projects\CSharp-Advanced-Topics\Problem12-Count-Of-Names\obj\Debug\Problem12-Count-Of-Names.pdb

@@ -1,0 +1,8 @@
+c:\users\asus\documents\visual studio 2013\Projects\Console-Input-Output-Homework\Problem03-Circle-Perimeter-Area\bin\Debug\Problem03-Circle-Perimeter-Area.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\Console-Input-Output-Homework\Problem03-Circle-Perimeter-Area\bin\Debug\Problem03-Circle-Perimeter-Area.exe
+c:\users\asus\documents\visual studio 2013\Projects\Console-Input-Output-Homework\Problem03-Circle-Perimeter-Area\bin\Debug\Problem03-Circle-Perimeter-Area.pdb
+c:\users\asus\documents\visual studio 2013\Projects\Console-Input-Output-Homework\Problem03-Circle-Perimeter-Area\obj\Debug\Problem03-Circle-Perimeter-Area.exe
+c:\users\asus\documents\visual studio 2013\Projects\Console-Input-Output-Homework\Problem03-Circle-Perimeter-Area\obj\Debug\Problem03-Circle-Perimeter-Area.pdb
+C:\Users\ASUS\Desktop\Homeworks rars\Console-Input-Output-Homework\Console-Input-Output-Homework\Problem03-Circle-Perimeter-Area\bin\Debug\Problem03-Circle-Perimeter-Area.exe.config
+C:\Users\ASUS\Desktop\Homeworks rars\Console-Input-Output-Homework\Console-Input-Output-Homework\Problem03-Circle-Perimeter-Area\obj\Debug\Problem03-Circle-Perimeter-Area.exe
+C:\Users\ASUS\Desktop\Homeworks rars\Console-Input-Output-Homework\Console-Input-Output-Homework\Problem03-Circle-Perimeter-Area\obj\Debug\Problem03-Circle-Perimeter-Area.pdb

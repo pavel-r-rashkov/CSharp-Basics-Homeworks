@@ -1,0 +1,8 @@
+c:\users\asus\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\Problem15-Joro-The-Football-Player\bin\Debug\Problem15-Joro-The-Football-Player.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\Problem15-Joro-The-Football-Player\bin\Debug\Problem15-Joro-The-Football-Player.exe
+c:\users\asus\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\Problem15-Joro-The-Football-Player\bin\Debug\Problem15-Joro-The-Football-Player.pdb
+c:\users\asus\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\Problem15-Joro-The-Football-Player\obj\Debug\Problem15-Joro-The-Football-Player.exe
+c:\users\asus\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\Problem15-Joro-The-Football-Player\obj\Debug\Problem15-Joro-The-Football-Player.pdb
+C:\Users\ASUS\Desktop\Homeworks rars\Primitive-Data-Types-Variables-Homework\Primitive-Data-Types-Variables-Homework\Problem15-Joro-The-Football-Player\bin\Debug\Problem15-Joro-The-Football-Player.exe.config
+C:\Users\ASUS\Desktop\Homeworks rars\Primitive-Data-Types-Variables-Homework\Primitive-Data-Types-Variables-Homework\Problem15-Joro-The-Football-Player\obj\Debug\Problem15-Joro-The-Football-Player.exe
+C:\Users\ASUS\Desktop\Homeworks rars\Primitive-Data-Types-Variables-Homework\Primitive-Data-Types-Variables-Homework\Problem15-Joro-The-Football-Player\obj\Debug\Problem15-Joro-The-Football-Player.pdb

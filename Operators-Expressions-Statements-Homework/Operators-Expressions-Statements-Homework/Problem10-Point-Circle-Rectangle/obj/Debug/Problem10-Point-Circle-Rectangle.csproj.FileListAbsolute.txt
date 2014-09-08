@@ -1,0 +1,5 @@
+c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem10-Point-Circle-Rectangle\bin\Debug\Problem10-Point-Circle-Rectangle.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem10-Point-Circle-Rectangle\bin\Debug\Problem10-Point-Circle-Rectangle.exe
+c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem10-Point-Circle-Rectangle\bin\Debug\Problem10-Point-Circle-Rectangle.pdb
+c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem10-Point-Circle-Rectangle\obj\Debug\Problem10-Point-Circle-Rectangle.exe
+c:\users\asus\documents\visual studio 2013\Projects\Operators-Expressions-Statements-Homework\Problem10-Point-Circle-Rectangle\obj\Debug\Problem10-Point-Circle-Rectangle.pdb

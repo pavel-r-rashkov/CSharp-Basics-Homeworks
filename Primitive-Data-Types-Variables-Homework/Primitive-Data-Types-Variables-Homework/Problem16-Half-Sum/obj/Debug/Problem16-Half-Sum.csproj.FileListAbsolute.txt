@@ -1,0 +1,8 @@
+c:\users\asus\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\Problem16-Half-Sum\bin\Debug\Problem16-Half-Sum.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\Problem16-Half-Sum\bin\Debug\Problem16-Half-Sum.exe
+c:\users\asus\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\Problem16-Half-Sum\bin\Debug\Problem16-Half-Sum.pdb
+c:\users\asus\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\Problem16-Half-Sum\obj\Debug\Problem16-Half-Sum.exe
+c:\users\asus\documents\visual studio 2013\Projects\Primitive-Data-Types-Variables-Homework\Problem16-Half-Sum\obj\Debug\Problem16-Half-Sum.pdb
+C:\Users\ASUS\Desktop\Homeworks rars\Primitive-Data-Types-Variables-Homework\Primitive-Data-Types-Variables-Homework\Problem16-Half-Sum\bin\Debug\Problem16-Half-Sum.exe.config
+C:\Users\ASUS\Desktop\Homeworks rars\Primitive-Data-Types-Variables-Homework\Primitive-Data-Types-Variables-Homework\Problem16-Half-Sum\obj\Debug\Problem16-Half-Sum.exe
+C:\Users\ASUS\Desktop\Homeworks rars\Primitive-Data-Types-Variables-Homework\Primitive-Data-Types-Variables-Homework\Problem16-Half-Sum\obj\Debug\Problem16-Half-Sum.pdb

@@ -1,0 +1,6 @@
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Topics\Problem20-Programmer-DNA\bin\Debug\Problem20-Programmer-DNA.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Topics\Problem20-Programmer-DNA\bin\Debug\Problem20-Programmer-DNA.exe
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Topics\Problem20-Programmer-DNA\bin\Debug\Problem20-Programmer-DNA.pdb
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Topics\Problem20-Programmer-DNA\obj\Debug\Problem20-Programmer-DNA.exe
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Topics\Problem20-Programmer-DNA\obj\Debug\Problem20-Programmer-DNA.pdb
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Topics\Problem20-Programmer-DNA\obj\Debug\Problem20-Programmer-DNA.csprojResolveAssemblyReference.cache

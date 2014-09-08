@@ -1,0 +1,6 @@
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem16-Magic-Dates\bin\Debug\Problem16-Magic-Dates.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem16-Magic-Dates\bin\Debug\Problem16-Magic-Dates.exe
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem16-Magic-Dates\bin\Debug\Problem16-Magic-Dates.pdb
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem16-Magic-Dates\obj\Debug\Problem16-Magic-Dates.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem16-Magic-Dates\obj\Debug\Problem16-Magic-Dates.exe
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Conditional-Statements-Homework\Problem16-Magic-Dates\obj\Debug\Problem16-Magic-Dates.pdb

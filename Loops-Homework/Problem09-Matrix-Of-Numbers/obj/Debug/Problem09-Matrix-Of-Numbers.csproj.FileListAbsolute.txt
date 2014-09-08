@@ -1,0 +1,9 @@
+c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem09-Matrix-Of-Numbers\bin\Debug\Problem09-Matrix-Of-Numbers.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem09-Matrix-Of-Numbers\bin\Debug\Problem09-Matrix-Of-Numbers.exe
+c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem09-Matrix-Of-Numbers\bin\Debug\Problem09-Matrix-Of-Numbers.pdb
+c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem09-Matrix-Of-Numbers\obj\Debug\Problem09-Matrix-Of-Numbers.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem09-Matrix-Of-Numbers\obj\Debug\Problem09-Matrix-Of-Numbers.exe
+c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem09-Matrix-Of-Numbers\obj\Debug\Problem09-Matrix-Of-Numbers.pdb
+C:\Users\ASUS\Desktop\C# Homeworks rars\Loops-Homework\Problem09-Matrix-Of-Numbers\bin\Debug\Problem09-Matrix-Of-Numbers.exe.config
+C:\Users\ASUS\Desktop\C# Homeworks rars\Loops-Homework\Problem09-Matrix-Of-Numbers\obj\Debug\Problem09-Matrix-Of-Numbers.exe
+C:\Users\ASUS\Desktop\C# Homeworks rars\Loops-Homework\Problem09-Matrix-Of-Numbers\obj\Debug\Problem09-Matrix-Of-Numbers.pdb

@@ -1,0 +1,11 @@
+c:\users\asus\documents\visual studio 2013\Projects\Intro-Programming-Homework\Problem6-Print-Numbers\bin\Debug\Problem6-Print-Numbers.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\Intro-Programming-Homework\Problem6-Print-Numbers\bin\Debug\Problem6-Print-Numbers.exe
+c:\users\asus\documents\visual studio 2013\Projects\Intro-Programming-Homework\Problem6-Print-Numbers\bin\Debug\Problem6-Print-Numbers.pdb
+c:\users\asus\documents\visual studio 2013\Projects\Intro-Programming-Homework\Problem6-Print-Numbers\obj\Debug\Problem6-Print-Numbers.exe
+c:\users\asus\documents\visual studio 2013\Projects\Intro-Programming-Homework\Problem6-Print-Numbers\obj\Debug\Problem6-Print-Numbers.pdb
+C:\Users\ASUS\Desktop\Intro Programming Homework\Intro Programming Homework\Intro-Programming-Homework\Problem6-Print-Numbers\bin\Debug\Problem6-Print-Numbers.exe.config
+C:\Users\ASUS\Desktop\Intro Programming Homework\Intro Programming Homework\Intro-Programming-Homework\Problem6-Print-Numbers\obj\Debug\Problem6-Print-Numbers.exe
+C:\Users\ASUS\Desktop\Intro Programming Homework\Intro Programming Homework\Intro-Programming-Homework\Problem6-Print-Numbers\obj\Debug\Problem6-Print-Numbers.pdb
+C:\Users\ASUS\Desktop\Homeworks rars\Intro Programming Homework\Intro Programming Homework\Intro-Programming-Homework\Problem6-Print-Numbers\bin\Debug\Problem6-Print-Numbers.exe.config
+C:\Users\ASUS\Desktop\Homeworks rars\Intro Programming Homework\Intro Programming Homework\Intro-Programming-Homework\Problem6-Print-Numbers\obj\Debug\Problem6-Print-Numbers.exe
+C:\Users\ASUS\Desktop\Homeworks rars\Intro Programming Homework\Intro Programming Homework\Intro-Programming-Homework\Problem6-Print-Numbers\obj\Debug\Problem6-Print-Numbers.pdb

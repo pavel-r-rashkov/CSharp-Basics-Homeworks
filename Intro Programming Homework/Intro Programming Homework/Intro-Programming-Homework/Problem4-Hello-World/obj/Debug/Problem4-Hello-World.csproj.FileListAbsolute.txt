@@ -1,0 +1,9 @@
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\Problem4-Hello-World\bin\Debug\Problem4-Hello-World.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\Problem4-Hello-World\bin\Debug\Problem4-Hello-World.exe
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\Problem4-Hello-World\bin\Debug\Problem4-Hello-World.pdb
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\Problem4-Hello-World\obj\Debug\Problem4-Hello-World.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\Problem4-Hello-World\obj\Debug\Problem4-Hello-World.exe
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\Problem4-Hello-World\obj\Debug\Problem4-Hello-World.pdb
+C:\Users\ASUS\Desktop\Homeworks rars\Intro Programming Homework\Intro Programming Homework\Intro-Programming-Homework\Problem4-Hello-World\bin\Debug\Problem4-Hello-World.exe.config
+C:\Users\ASUS\Desktop\Homeworks rars\Intro Programming Homework\Intro Programming Homework\Intro-Programming-Homework\Problem4-Hello-World\obj\Debug\Problem4-Hello-World.exe
+C:\Users\ASUS\Desktop\Homeworks rars\Intro Programming Homework\Intro Programming Homework\Intro-Programming-Homework\Problem4-Hello-World\obj\Debug\Problem4-Hello-World.pdb

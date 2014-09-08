@@ -1,0 +1,5 @@
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Topics\Problem19-Student-Cables\bin\Debug\Problem19-Student-Cables.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Topics\Problem19-Student-Cables\bin\Debug\Problem19-Student-Cables.exe
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Topics\Problem19-Student-Cables\bin\Debug\Problem19-Student-Cables.pdb
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Topics\Problem19-Student-Cables\obj\Debug\Problem19-Student-Cables.exe
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Topics\Problem19-Student-Cables\obj\Debug\Problem19-Student-Cables.pdb

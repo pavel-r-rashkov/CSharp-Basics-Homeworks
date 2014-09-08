@@ -1,0 +1,12 @@
+c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem01-Numbers-1-N\bin\Debug\Problem01-Numbers-1-N.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem01-Numbers-1-N\bin\Debug\Problem01-Numbers-1-N.exe
+c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem01-Numbers-1-N\bin\Debug\Problem01-Numbers-1-N.pdb
+c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem01-Numbers-1-N\obj\Debug\Problem01-Numbers-1-N.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem01-Numbers-1-N\obj\Debug\Problem01-Numbers-1-N.exe
+c:\users\asus\documents\visual studio 2013\Projects\Loops-Homework\Problem01-Numbers-1-N\obj\Debug\Problem01-Numbers-1-N.pdb
+C:\Users\ASUS\Desktop\Homeworks rars\Loops-Homework\Problem01-Numbers-1-N\bin\Debug\Problem01-Numbers-1-N.exe.config
+C:\Users\ASUS\Desktop\Homeworks rars\Loops-Homework\Problem01-Numbers-1-N\obj\Debug\Problem01-Numbers-1-N.exe
+C:\Users\ASUS\Desktop\Homeworks rars\Loops-Homework\Problem01-Numbers-1-N\obj\Debug\Problem01-Numbers-1-N.pdb
+C:\Users\ASUS\Desktop\C# Homeworks rars\Loops-Homework\Problem01-Numbers-1-N\bin\Debug\Problem01-Numbers-1-N.exe.config
+C:\Users\ASUS\Desktop\C# Homeworks rars\Loops-Homework\Problem01-Numbers-1-N\obj\Debug\Problem01-Numbers-1-N.exe
+C:\Users\ASUS\Desktop\C# Homeworks rars\Loops-Homework\Problem01-Numbers-1-N\obj\Debug\Problem01-Numbers-1-N.pdb
